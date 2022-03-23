@@ -1,0 +1,8 @@
+[package]
+name = "pi_switches"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rust_gpiozero = "0.2.1"
+rouille = "3.5.0"
